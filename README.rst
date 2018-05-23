@@ -29,6 +29,11 @@ the terms of the MIT license.
 If you use cutadapt, please cite
 `DOI:10.14806/ej.17.1.200 <http://dx.doi.org/10.14806/ej.17.1.200>`_ .
 
+Install
+-----
+
+>>>pip install git+https://github.com/daydream-boost/cutadapt.git
+
 
 Links
 -----
